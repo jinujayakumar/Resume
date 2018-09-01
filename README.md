@@ -85,6 +85,6 @@ Kuravankonam, Trivandrum in 2014 with an aggregate of 56%.
 in March 2011 with an aggregate of 77%.  
 + SSLC (secondary school certificate examination, 10th) passed from St. Mary’s HSS, Pattom, and
 Trivandrum in March 2009 with an aggregate of 81%.  
-TECHNICAL SKILLS  
+#### TECHNICAL SKILLS  
 + Programming Languages: C, C++, Java, android, HTML  
 + Operating Systems: Windows, Linux, Ubuntu, MAC  
