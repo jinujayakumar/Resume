@@ -40,37 +40,37 @@ Android developer: (18th Sept 2014 – 19th Sept 2016)
 + Obfuscation of android app using proguard.
 
 #### PROJECTS DONE  
-ResQ  
+<b>ResQ</b>  
 ResQ is a maintenance marketplace platform for restaurant maintenance needs!  
 https://play.google.com/store/apps/details?id=com.getresq.resqfm
   
-Heineken global cheers  
+<b>Heineken global cheers</b>  
 Heineken global cheers is a new way to making friends with people who like the same interest as you!   
 https://play.google.com/store/apps/details?id=com.heineken.globalcheers  
   
-PingPoint  
+<b>PingPoint</b>  
 PingPoint is a chat application which will allow local shopkeeper and customer can chat with each other
 and place order using this application, and shows nearest shops and feeds nearest from user’s location.   
 https://play.google.com/store/apps/details?id=com.pingpoint  
   
-ShouldI?  
+<b>ShouldI?</b>  
 Should I? Is a social networking application that allows people to post pictures and a single question
 underneath, once posted to the public site people will be able to view the picture and the question then
 vote “Yes” or “No”? And comment on post.  
 https://play.google.com/store/apps/details?id=com.shouldi  
 
-mInsurance  
+<b>mInsurance</b>  
 mInsurance is an application which allows user to buy policies through their smartphone, and allows
 users to track their claims and renew policies which are already purchased.  
 https://play.google.com/store/apps/details?id=com.almadina.tameenet.plus  
   
-Drinkasaur  
+</b>Drinkasaur</b>  
 Drinkasaur is a listings directory which brings to you a Verified and Filtered content of nightlife & Verified
 locations across Mumbai, Delhi/NCR, Chandigarh, Bengaluru, Goa, Pune, Chennai and Hyderabad. All in a
 single click away.  
 https://play.google.com/store/apps/details?id=com.drinkassaur&hl=en  
   
-Qdado  
+<b>Qdado</b>  
 Qdado is was setup with the sole aim of making people’s lives simpler and easier. Chasing deadlines at
 work in professional life leaves one exhausted to spend time with their loved ones and even less time to
 maintain your dream home or go to that dream vacation. This is where we strive to swoop in and make
